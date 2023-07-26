@@ -6,7 +6,7 @@ import {
 import Header from "@/components/customHeader";
 import StandardMessageForm from "@/components/customMessageForms/StandardMessageForm";
 import Ai from "@/components/customMessageForms/Ai";
-import AiCode from "@/components/customMessageForms/AiCode";
+import AiCode from "@/components/customMessageForms/Aicode";
 import AiAssist from "@/components/customMessageForms/AiAssist";
 
 const Chat = ({ user, secret }) => {
